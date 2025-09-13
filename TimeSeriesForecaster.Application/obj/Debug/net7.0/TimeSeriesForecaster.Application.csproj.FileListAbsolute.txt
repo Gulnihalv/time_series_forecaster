@@ -1,0 +1,15 @@
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/bin/Debug/net7.0/TimeSeriesForecaster.Application.deps.json
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/bin/Debug/net7.0/TimeSeriesForecaster.Application.dll
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/bin/Debug/net7.0/TimeSeriesForecaster.Application.pdb
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/bin/Debug/net7.0/TimeSeriesForecaster.Domain.dll
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/bin/Debug/net7.0/TimeSeriesForecaster.Domain.pdb
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/obj/Debug/net7.0/TimeSeriesForecaster.Application.csproj.AssemblyReference.cache
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/obj/Debug/net7.0/TimeSeriesForecaster.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/obj/Debug/net7.0/TimeSeriesForecaster.Application.AssemblyInfoInputs.cache
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/obj/Debug/net7.0/TimeSeriesForecaster.Application.AssemblyInfo.cs
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/obj/Debug/net7.0/TimeSeriesForecaster.Application.csproj.CoreCompileInputs.cache
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/obj/Debug/net7.0/TimeSeriesForecaster.Application.csproj.CopyComplete
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/obj/Debug/net7.0/TimeSeriesForecaster.Application.dll
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/obj/Debug/net7.0/refint/TimeSeriesForecaster.Application.dll
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/obj/Debug/net7.0/TimeSeriesForecaster.Application.pdb
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Application/obj/Debug/net7.0/ref/TimeSeriesForecaster.Application.dll

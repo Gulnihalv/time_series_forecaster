@@ -1,0 +1,12 @@
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Domain/bin/Debug/net7.0/TimeSeriesForecaster.Domain.deps.json
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Domain/bin/Debug/net7.0/TimeSeriesForecaster.Domain.dll
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Domain/bin/Debug/net7.0/TimeSeriesForecaster.Domain.pdb
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Domain/obj/Debug/net7.0/TimeSeriesForecaster.Domain.csproj.AssemblyReference.cache
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Domain/obj/Debug/net7.0/TimeSeriesForecaster.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Domain/obj/Debug/net7.0/TimeSeriesForecaster.Domain.AssemblyInfoInputs.cache
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Domain/obj/Debug/net7.0/TimeSeriesForecaster.Domain.AssemblyInfo.cs
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Domain/obj/Debug/net7.0/TimeSeriesForecaster.Domain.csproj.CoreCompileInputs.cache
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Domain/obj/Debug/net7.0/TimeSeriesForecaster.Domain.dll
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Domain/obj/Debug/net7.0/refint/TimeSeriesForecaster.Domain.dll
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Domain/obj/Debug/net7.0/TimeSeriesForecaster.Domain.pdb
+/Users/gulnihalvurat/Documents/Yazılım/TimeSeries_Project/TimeSeriesForecaster/TimeSeriesForecaster.Domain/obj/Debug/net7.0/ref/TimeSeriesForecaster.Domain.dll

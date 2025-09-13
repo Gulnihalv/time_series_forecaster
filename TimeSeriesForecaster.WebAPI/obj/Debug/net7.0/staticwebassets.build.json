@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ymrtuZep9pppRh5QLbamIw0glcQDIyCHWKh+d+zgmPY=",
+  "Source": "TimeSeriesForecaster.WebAPI",
+  "BasePath": "_content/TimeSeriesForecaster.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
