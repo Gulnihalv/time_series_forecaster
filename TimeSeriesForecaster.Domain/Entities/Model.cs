@@ -1,14 +1,14 @@
 namespace TimeSeriesForecaster.Domain.Entities;
 
-public class Models
+public class Model
 {
     public int Id { get; set; }
     public int ProjectId { get; set; }
-    public Projects? Project { get; set; } // Navigation property
+    public Project? Project { get; set; } // Navigation property
     public int DatasetId { get; set; }
-    public Datasets? Dataset { get; set; } // Navigation property
-    public ICollection<Predictions>? Predictions { get; set; } // Collection navigation property
-    public ICollection<ModelMetrics>? ModelMetrics { get; set; } // Collection navigation property
+    public Dataset? Dataset { get; set; } // Navigation property
+    public ICollection<Prediction>? Predictions { get; set; } // Collection navigation property
+    public ICollection<ModelMetric>? ModelMetrics { get; set; } // Collection navigation property
     public string? ModelName { get; set; }
     public string? ModelType { get; set; }
     public string? Algorithm { get; set; }

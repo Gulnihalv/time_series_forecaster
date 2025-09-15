@@ -1,12 +1,12 @@
 namespace TimeSeriesForecaster.Domain.Entities;
 
-public class BackgroundJobs
+public class BackgroundJob
 {
     public int Id { get; set; }
     public int UserId { get; set; }
-    public Users? User { get; set; } // Navigation property
+    public User? User { get; set; } // Navigation property
     public int ProjectId { get; set; }
-    public Projects? Project { get; set; } // Navigation property
+    public Project? Project { get; set; } // Navigation property
     public string? JobType { get; set; }
     public string? JobData { get; set; }
     public string? Status { get; set; }

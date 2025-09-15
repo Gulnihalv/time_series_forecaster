@@ -1,10 +1,10 @@
 namespace TimeSeriesForecaster.Domain.Entities;
 
-public class DataPoints
+public class DataPoint
 {
     public long Id { get; set; }
     public int DatasetId { get; set; }
-    public Datasets? Dataset { get; set; } // Navigation property
+    public Dataset? Dataset { get; set; } // Navigation property
     public DateTime Timestamp { get; set; }
     public decimal Value { get; set; }
     public bool IsOutlier { get; set; }
