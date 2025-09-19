@@ -21,15 +21,35 @@ public class ProjectRepository : IProjectRepository
             .FirstOrDefaultAsync(p => p.Id == id);
     }
 
-    public async Task<IEnumerable<Project>> GetAllProjectsForUserAsync(int userId, bool trackChanges)
+    public async Task<IEnumerable<Project>> GetAllProjectsForUserAsync(int userId, bool trackChanges, bool includeInactive = false)
     {
-        return await _context.Projects
-            .Where(p => p.UserId == userId)
-            .ToListAsync();
+        var query = _context.Projects
+            .Where(p => p.UserId == userId);
+
+        if (!includeInactive)
+        {
+            query = query.Where(p => p.IsActive);
+        }
+
+        return await query.ToListAsync();
     }
 
     public void CreateProject(Project project) => _context.Projects.Add(project);
 
     public void RemoveProject(Project project) => _context.Projects.Remove(project);
 
+    public void UpdateProject(Project project)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Task<bool> ProjectExistsAsync(int id)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Task<bool> UserOwnsProjectAsync(int projectId, int userId)
+    {
+        throw new NotImplementedException();
+    }
 }

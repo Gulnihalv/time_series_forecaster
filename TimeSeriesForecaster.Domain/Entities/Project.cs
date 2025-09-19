@@ -4,7 +4,7 @@ public class Project
 {
     public int Id { get; set; }
     public int UserId { get; set; }
-    public User? User { get; set; } // Navigation property
+    public AppUser? User { get; set; } // Navigation property
     public string? Name { get; set; }
     public ICollection<Dataset>? Datasets { get; set; } // Collection navigation property
     public ICollection<Model>? Models { get; set; } // Collection navigation property

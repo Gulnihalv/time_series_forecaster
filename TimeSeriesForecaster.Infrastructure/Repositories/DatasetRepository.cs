@@ -14,8 +14,53 @@ public class DatasetRepository : IDatasetRepository
         _context = context;
     }
 
-    public async Task<IEnumerable<Dataset>> GetAllAsync() // Sadece datasetleri döndürüyor
+    public void CreateDataset(Dataset dataset)
     {
-        return await _context.Datasets.ToListAsync();
+        throw new NotImplementedException();
+    }
+
+    public Task<bool> DatasetExistsAsync(int id)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Task<IEnumerable<Dataset>> GetAllDatasetsForProjectAsync(int projectId, bool trackChanges, bool includeUnprocessed = true)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Task<Dataset?> GetDatasetByIdAsync(int id, bool trackChanges)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Task<(DateTime startDate, DateTime endDate)> GetDatasetDateRangeAsync(int id)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Task<int> GetDatasetRecordCountAsync(int id)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Task<bool> IsDatasetProcessedAsync(int id)
+    {
+        throw new NotImplementedException();
+    }
+
+    public void RemoveDataset(Dataset dataset)
+    {
+        throw new NotImplementedException();
+    }
+
+    public void UpdateDataset(Dataset dataset)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Task<bool> UserOwnsDatasetAsync(int datasetId, int userId)
+    {
+        throw new NotImplementedException();
     }
 }
